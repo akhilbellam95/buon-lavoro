@@ -34,14 +34,14 @@ export const contactSection = {
   contacts: [
     {
       id: 1,
-      name: "Austin",
+      name: "Hyderabad",
       address: "22 Texas West Hills",
       email: "needhelp@linoor.com",
       phone: "666 888 000",
     },
     {
       id: 2,
-      name: "Boston",
+      name: "Hyderabad",
       address: "5 Federal Street Boston",
       email: "needhelp@linoor.com",
       phone: "666 888 000",
