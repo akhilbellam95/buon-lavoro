@@ -194,7 +194,7 @@ const navItems = [
     href: "/services",
     subNavItems: [
       { id: 1, name: "All Services", href: "/services" },
-      { id: 2, name: "Services Two", href: "/services-2", isNew: true },
+      // { id: 2, name: "Services Two", href: "/services-2", isNew: true },
       { id: 3, name: "Website Development", href: "/web-development" },
       { id: 4, name: "Graphic Designing", href: "/graphic-designing" },
       { id: 5, name: "Digital Marketing", href: "/digital-marketing" },
@@ -207,12 +207,12 @@ const navItems = [
     id: 5,
     name: "Portfolio",
     href: "/portfolio",
-    subNavItems: [
-      { id: 1, name: "Portfolio", href: "/portfolio" },
-      { id: 2, name: "Portfolio Single 01", href: "/portfolio-single" },
-      { id: 3, name: "Portfolio Single 02", href: "/portfolio-single-2" },
-      { id: 4, name: "Portfolio Single 03", href: "/portfolio-single-3" },
-    ],
+    // subNavItems: [
+    //   { id: 1, name: "Portfolio", href: "/portfolio" },
+    //   { id: 2, name: "Portfolio Single 01", href: "/portfolio-single" },
+    //   { id: 3, name: "Portfolio Single 02", href: "/portfolio-single-2" },
+    //   { id: 4, name: "Portfolio Single 03", href: "/portfolio-single-3" },
+    // ],
   },
   // {
   //   id: 6,

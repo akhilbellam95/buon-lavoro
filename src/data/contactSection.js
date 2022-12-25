@@ -35,16 +35,16 @@ export const contactSection = {
     {
       id: 1,
       name: "Hyderabad",
-      address: "22 Texas West Hills",
-      email: "needhelp@linoor.com",
-      phone: "666 888 000",
+      address: "101, The Waterfront, \n Timber Lake Colony, \n Hyderabad",
+      email: "info@buonlavoro.co.in",
+      phone: "+91 958 109 8888",
     },
     {
       id: 2,
       name: "Hyderabad",
-      address: "5 Federal Street Boston",
-      email: "needhelp@linoor.com",
-      phone: "666 888 000",
+      address: "Meera Mansion, \n Somajiguda, \n Hyderabad",
+      email: "info@buonlavoro.co.in",
+      phone: "+91 958 109 8888",
     },
     // {
     //   id: 3,

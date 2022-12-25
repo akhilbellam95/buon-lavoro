@@ -49,23 +49,23 @@ export const mainFooter = {
   socials: [
     {
       id: 1,
-      href: "#",
+      href: "https://www.facebook.com/buonlavoroinfotechind/",
       icon: "fab fa-facebook-square",
     },
     {
       id: 2,
-      href: "#",
+      href: "https://twitter.com/BuonLavoroInfoT",
       icon: "fab fa-twitter",
     },
-    {
-      id: 3,
-      href: "#",
-      icon: "fab fa-instagram",
-    },
+    // {
+    //   id: 3,
+    //   href: "#",
+    //   icon: "fab fa-instagram",
+    // },
     {
       id: 4,
-      href: "#",
-      icon: "fab fa-pinterest-p",
+      href: "https://www.linkedin.com/company/buon-lavoro-info-tech/",
+      icon: "fab fa-linkedin",
     },
   ],
   links: [

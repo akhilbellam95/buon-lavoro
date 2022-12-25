@@ -12,6 +12,9 @@ const ContentSide = ({ service = {} }) => {
     features,
     text2,
     text3,
+    text4,
+    text5,
+    text6,
   } = service;
 
   return (
@@ -21,7 +24,10 @@ const ContentSide = ({ service = {} }) => {
       </div>
       <div className="text-content">
         <h3>{title}</h3>
-        <p>{text1}</p>
+        <p>
+          <span style={{ fontWeight: "bold" }}>Web development </span>
+          {text1}
+        </p>
         <div className="featured">
           <Row className="clearfix">
             <Col md={6} sm={12} className="image-col">
@@ -42,8 +48,26 @@ const ContentSide = ({ service = {} }) => {
             </Col>
           </Row>
         </div>
-        <p>{text2}</p>
-        <p className="last">{text3}</p>
+        <p>
+          <span style={{ fontWeight: "bold" }}>Front-End Developemnt, </span>
+          {text2}
+        </p>
+        <p>
+          <span style={{ fontWeight: "bold" }}>Back-End Development, </span>
+          {text3}
+        </p>
+        <p>
+          <span style={{ fontWeight: "bold" }}>Security </span>
+          {text4}
+        </p>
+        <p>
+          <span style={{ fontWeight: "bold" }}>Performance optimization </span>
+          {text5}
+        </p>
+        <p className="last">
+          <span style={{ fontWeight: "bold" }}>Web development </span>
+          {text6}
+        </p>
       </div>
     </div>
   );

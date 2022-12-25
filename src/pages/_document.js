@@ -38,7 +38,7 @@ class MyDocument extends Document {
           <link rel="icon" href="favicon.ico" />
           <meta
             name="description"
-            content="Buon Lavoro Info Tech is a multipurpose and powerful Digital Services company."
+            content="Buon Lavoro Info Tech is a company focused on providing high quality services to clients."
           />
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 

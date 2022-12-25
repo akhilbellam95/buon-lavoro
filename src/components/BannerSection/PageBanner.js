@@ -1,4 +1,4 @@
-import bg from "@/images/background/image-7.jpg";
+import bg from "@/images/background/software-developer.jpg";
 import Link from "next/link";
 import React from "react";
 

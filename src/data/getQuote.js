@@ -35,7 +35,7 @@ export const getQuoteTwo = {
   text: "There are many variatns of passages the majority have suffered alteration in some foor randomised words believable.",
   address: "66 Broklyn Street, New York. USA",
   email: "needhelp@linoor.com",
-  phone: "666 888 000",
+  phone: "958 109 8888",
   inputs: [
     {
       type: "text",
