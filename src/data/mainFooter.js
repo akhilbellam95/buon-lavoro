@@ -33,7 +33,7 @@ export const mainFooter = {
   about2: "The new corporate agency theme",
   about3:
     "We’ve grown our business on a set of \n three building blocks. Enjoy the \n people you work.",
-  text: "Welcome to our web design agency. Lorem ipsum simply free text dolor sited amet cons cing elit.",
+  text: "Welcome to our web design agency. We are a team of creative people. We love what we do and we do it with passion. We are here to help you with your project.",
   address:
     "101, The Water Front, \n Timber Lake Colony, Rai Durg, \n Hyderabad - 500032.",
   address3: "66 Mark Street, New Town DC 5752, Lo New York",

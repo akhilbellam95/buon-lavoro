@@ -14,8 +14,8 @@ export const sidebar = {
     },
     {
       id: 2,
-      title: "Graphic Designing",
-      href: "/graphic-designing",
+      title: "App Development",
+      href: "/app-development",
     },
     {
       id: 3,
@@ -29,8 +29,8 @@ export const sidebar = {
     },
     {
       id: 5,
-      title: "App Development",
-      href: "/app-development",
+      title: "Graphic Designing",
+      href: "/graphic-designing",
     },
     {
       id: 6,
@@ -69,6 +69,16 @@ const common = {
 export const webDevelopment = {
   ...common,
   title: "Website Development",
+  text2:
+    "also known as client-side development, involves building the user interface of a website or web application. This includes the layout, design, and interactivity of the site. Front-end developers use languages such as HTML, CSS, and JavaScript to create the visual elements of a website or web application.",
+  text3:
+    "also known as server-side development, involves building the underlying infrastructure of a website or web application. This includes the server-side logic and database management. Back-end developers use programming languages such as PHP, Python, and Ruby to build the back-end of a website or web application.",
+  text4:
+    "is an important aspect of web development. This includes implementing measures to protect against cyber threats such as hacking and data breaches. This may involve using secure servers, encrypting data, and implementing authentication and authorization protocols.",
+  text5:
+    "Performance optimization involves ensuring that a website or web application loads quickly and efficiently. This may involve optimizing the code, minimizing the use of resources, and using caching techniques to reduce the load on the server.",
+  text6:
+    "may involve working on a wide range of projects, including creating static websites, dynamic websites, e-commerce platforms, and web applications. It may also involve working with a variety of technologies and tools, including content management systems (CMS), databases, and version control systems.",
 };
 
 export const graphicDesigning = {
@@ -89,6 +99,18 @@ export const seo = {
 export const appDevelopment = {
   ...common,
   title: "App Development",
+  text1:
+    "is the process of creating software for devices such as phones, tablets, and wearable technology. The goal of mobile application development is to create applications that are functional, perform well, and provide a good user experience on a wide range of mobile devices.",
+  text2:
+    "also known as client-side development, involves building the user interface of a website or web application. This includes the layout, design, and interactivity of the site. Front-end developers use languages such as HTML, CSS, and JavaScript to create the visual elements of a website or web application.",
+  text3:
+    "also known as server-side development, involves building the underlying infrastructure of a website or web application. This includes the server-side logic and database management. Back-end developers use programming languages such as PHP, Python, and Ruby to build the back-end of a website or web application.",
+  text4:
+    "is an important aspect of web development. This includes implementing measures to protect against cyber threats such as hacking and data breaches. This may involve using secure servers, encrypting data, and implementing authentication and authorization protocols.",
+  text5:
+    "Performance optimization involves ensuring that a website or web application loads quickly and efficiently. This may involve optimizing the code, minimizing the use of resources, and using caching techniques to reduce the load on the server.",
+  text6:
+    "may involve working on a wide range of projects, including creating static websites, dynamic websites, e-commerce platforms, and web applications. It may also involve working with a variety of technologies and tools, including content management systems (CMS), databases, and version control systems.",
 };
 
 export const uiDesigning = {

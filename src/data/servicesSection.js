@@ -47,39 +47,39 @@ export const serviceSectionThree = [
   },
   {
     id: 2,
-    icon: "flaticon-computer",
-    href: "/graphic-designing",
-    title: "graphic\ndesigning",
-  },
-  {
-    id: 3,
-    icon: "flaticon-digital-marketing",
-    href: "/digital-marketing",
-    title: "digital\nmarketing",
-  },
-  {
-    id: 4,
-    icon: "flaticon-development",
-    href: "/seo",
-    title: "seo & content\nwriting",
-  },
-  {
-    id: 5,
     icon: "flaticon-app-development",
     href: "/app-development",
     title: "App\nDevelopment",
   },
   {
-    id: 6,
+    id: 3,
+    icon: "flaticon-computer",
+    href: "/graphic-designing",
+    title: "graphic\ndesigning",
+  },
+  {
+    id: 4,
     icon: "flaticon-ui",
     href: "/ui-designing",
     title: "UI/UX\ndesigning",
   },
   {
-    id: 7,
-    icon: "ebook.png",
+    id: 5,
+    icon: "flaticon-clipboard",
     href: "/ebook-conversion",
     title: "E-book\nConversion",
+  },
+  {
+    id: 6,
+    icon: "flaticon-digital-marketing",
+    href: "/digital-marketing",
+    title: "digital\nmarketing",
+  },
+  {
+    id: 7,
+    icon: "flaticon-development",
+    href: "/seo",
+    title: "seo & content\nwriting",
   },
 ];
 
