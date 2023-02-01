@@ -13,24 +13,24 @@ const agencySection = {
       id: "tab-2",
       text: "Our Vision",
     },
-    {
-      id: "tab-3",
-      text: "Our History",
-    },
+    // {
+    //   id: "tab-3",
+    //   text: "Our History",
+    // },
   ],
   tabContents: [
     {
       id: "tab-1",
-      text: "There are many variations of passages of avaialable but the majority have in some form, by injected humou or words which don't look even slightly believable. There are many variations of but the majority have suffered.",
+      text: "Our mission at Buon Lavoro is to empower businesses through innovative and impactful technology solutions. We strive to deliver exceptional software development, design, and digital marketing services that drive growth and success for our clients. With a commitment to quality and customer satisfaction, we aim to be a trusted partner for businesses looking to take their digital presence to the next level.",
     },
     {
       id: "tab-2",
-      text: "There are many variations of passages of avaialable but the majority have in some form, by injected humou or words which don't look even slightly believable. There are many variations of but the majority have suffered.",
+      text: "Our vision at Buon Lavoro is to be the leading provider of technology solutions, setting the standard for excellence in software development, design, and digital marketing. We aim to empower businesses of all sizes to reach their full potential through innovative and impactful technology solutions that drive growth, success, and customer satisfaction. We see a future where technology is accessible and impactful for all, and we are dedicated to playing a pivotal role in making that vision a reality.",
     },
-    {
-      id: "tab-3",
-      text: "There are many variations of passages of avaialable but the majority have in some form, by injected humou or words which don't look even slightly believable. There are many variations of but the majority have suffered.",
-    },
+    // {
+    //   id: "tab-3",
+    //   text: "There are many variations of passages of avaialable but the majority have in some form, by injected humou or words which don't look even slightly believable. There are many variations of but the majority have suffered.",
+    // },
   ],
   textList: [
     "Nsectetur cing elit.",

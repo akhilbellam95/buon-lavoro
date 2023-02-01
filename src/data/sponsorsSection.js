@@ -2,6 +2,9 @@ import image from "@/images/clients/2.png";
 import image3 from "@/images/update-01-10-2021/sponsor/sponsor-1-1.png";
 import image4 from "@/images/update-01-10-2021/sponsor/sponsor-2-1.png";
 import image2 from "@/images/update-1-12-2020/resources/client-1.png";
+import clientOneLogo from "@/images/clients/Lumina-Datamatics.png";
+import clientTwoLogo from "@/images/clients/Straive.png";
+import clientThreeLogo from "@/images/clients/Apex.png";
 
 const sponsors = [
   "1.png",
@@ -20,7 +23,15 @@ export default sponsors;
 
 export const sponsorsSectionTwo = {
   title: "Some of the clients we have worked with",
-  images: [image, image, image, image, image],
+  images: [
+    clientThreeLogo,
+
+    clientOneLogo,
+    clientTwoLogo,
+
+    clientTwoLogo,
+    clientOneLogo,
+  ],
 };
 
 export const sponsorsSectionThree = [

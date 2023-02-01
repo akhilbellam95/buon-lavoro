@@ -15,7 +15,7 @@ import image13 from "@/images/update-26-02-2021/resources/about-me-1.jpg";
 export const aboutSectionOne = {
   image1,
   image2,
-  title: "We’re the best agency\nin downtown",
+  title: "We’re the most enthusiastic agency\nin city",
   text1:
     "We are committed to providing our customers with exceptional service while offering our employees the best training.",
   text2:
@@ -25,7 +25,7 @@ export const aboutSectionOne = {
     "Entum estibulum dignissim posuere.",
     "If you are going to use a passage.",
   ],
-  since: "2008",
+  since: "2022",
 };
 
 export const aboutSectionTwo = {

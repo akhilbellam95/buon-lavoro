@@ -23,7 +23,7 @@ const About = () => {
       <SearchPopup />
       <PageBanner title="About" />
       <DiscoverSection ShowTitle={false} />
-      <TestimonialsSection />
+      {/* <TestimonialsSection /> */}
       <FunFacts />
       <ParallaxSection />
       <AgencySection />

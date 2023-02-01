@@ -25,7 +25,7 @@ const ContentSide = ({ service = {} }) => {
       <div className="text-content">
         <h3>{title}</h3>
         <p>
-          <span style={{ fontWeight: "bold" }}>Web development </span>
+          <span style={{ fontWeight: "bold" }}>{title} </span>
           {text1}
         </p>
         <div className="featured">

@@ -57,16 +57,16 @@ export const mainFooter = {
       href: "https://twitter.com/BuonLavoroInfoT",
       icon: "fab fa-twitter",
     },
-    // {
-    //   id: 3,
-    //   href: "#",
-    //   icon: "fab fa-instagram",
-    // },
     {
-      id: 4,
+      id: 3,
       href: "https://www.linkedin.com/company/buon-lavoro-info-tech/",
       icon: "fab fa-linkedin",
     },
+    // {
+    //   id: 4,
+    //   href: "#",
+    //   icon: "fab fa-instagram",
+    // },
   ],
   links: [
     {
@@ -76,44 +76,41 @@ export const mainFooter = {
     },
     {
       id: 2,
-      href: "/team",
-      title: "Meet Our Team",
+      href: "/services",
+      title: "Services",
     },
-    {
-      id: 3,
-      href: "/portfolio",
-      title: "Our Portfolio",
-    },
-    {
-      id: 4,
-      href: "/blog",
-      title: "Latest News",
-    },
+    // {
+
+    // {
+    //   id: 4,
+    //   href: "/blog",
+    //   title: "Latest News",
+    // },
     {
       id: 5,
       href: "/contact",
       title: "Contact",
     },
-    {
-      id: 6,
-      href: "/faqs",
-      title: "Support",
-    },
-    {
-      id: 7,
-      href: "/faqs",
-      title: "Privacy Policy",
-    },
-    {
-      id: 8,
-      href: "/faqs",
-      title: "Terms of Use",
-    },
-    {
-      id: 9,
-      href: "/faqs",
-      title: "Help",
-    },
+    // {
+    //   id: 6,
+    //   href: "/faqs",
+    //   title: "Support",
+    // },
+    // {
+    //   id: 7,
+    //   href: "/faqs",
+    //   title: "Privacy Policy",
+    // },
+    // {
+    //   id: 8,
+    //   href: "/faqs",
+    //   title: "Terms of Use",
+    // },
+    // {
+    //   id: 9,
+    //   href: "/faqs",
+    //   title: "Help",
+    // },
   ],
   ...footer,
   newses: [

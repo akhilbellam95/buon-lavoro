@@ -203,17 +203,17 @@ const navItems = [
       { id: 8, name: "UI/UX Designing", href: "/ui-designing" },
     ],
   },
-  {
-    id: 5,
-    name: "Portfolio",
-    href: "/portfolio",
-    // subNavItems: [
-    //   { id: 1, name: "Portfolio", href: "/portfolio" },
-    //   { id: 2, name: "Portfolio Single 01", href: "/portfolio-single" },
-    //   { id: 3, name: "Portfolio Single 02", href: "/portfolio-single-2" },
-    //   { id: 4, name: "Portfolio Single 03", href: "/portfolio-single-3" },
-    // ],
-  },
+  // {
+  //   id: 5,
+  //   name: "Portfolio",
+  //   href: "/portfolio",
+  // subNavItems: [
+  //   { id: 1, name: "Portfolio", href: "/portfolio" },
+  //   { id: 2, name: "Portfolio Single 01", href: "/portfolio-single" },
+  //   { id: 3, name: "Portfolio Single 02", href: "/portfolio-single-2" },
+  //   { id: 4, name: "Portfolio Single 03", href: "/portfolio-single-3" },
+  // ],
+  // },
   // {
   //   id: 6,
   //   name: "Shop",
