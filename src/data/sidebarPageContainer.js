@@ -1,5 +1,6 @@
 import image from "@/images/resource/lines-of-code.jpeg";
 import featuredImage from "@/images/resource/planning-strategy-min.jpg";
+import image2 from "@/images/resource/graphic-designing.jpg";
 
 export const sidebar = {
   title: "All Services",
@@ -83,6 +84,9 @@ export const webDevelopment = {
 
 export const graphicDesigning = {
   ...common,
+  image: image2,
+  text1:
+    "is an essential aspect of any visual communication, including websites, mobile apps, brochures, and other marketing materials. Your software agency offers a full range of graphic design services to help clients create a strong visual identity and effectively communicate their message to their target audience.",
   title: "Graphic Designing",
 };
 

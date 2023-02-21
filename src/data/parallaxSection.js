@@ -1,4 +1,4 @@
-import bg from "@/images/background/image-2.jpg";
+import bg from "@/images/background/team-work.jpg";
 
 const parallaxSection = {
   bg,

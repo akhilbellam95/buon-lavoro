@@ -31,7 +31,7 @@ const HomeMain = () => {
       <ServicesSectionOne />
       <AboutSection />
       {/* <LiveSection /> */}
-      <WeDOSection />
+      {/* <WeDOSection /> */}
       {/* <GallerySectionOne /> */}
       <FunFactsOne />
       <TrustedSection />

@@ -1,8 +1,8 @@
-import image from "@/images/resource/featured-image-5.jpg";
+import image from "@/images/resource/shake-hand.jpg";
 
 const trustedSection = {
   title: "We’re Committed To Deliver High Quality Projects.",
-  title2: "We’re trusted by more\nthan 6260 clients",
+  title2: "We’re trusted by our clients",
   image,
   text: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, simply free text by injected humour, or randomised.",
   textList: [

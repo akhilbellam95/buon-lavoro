@@ -1,4 +1,4 @@
-import bg from "@/images/background/image-1.jpg";
+import bg from "@/images/background/box-pattern.jpg";
 
 const funFacts = [
   {

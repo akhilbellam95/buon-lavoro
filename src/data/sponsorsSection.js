@@ -7,10 +7,10 @@ import clientTwoLogo from "@/images/clients/Straive.png";
 import clientThreeLogo from "@/images/clients/Apex.png";
 
 const sponsors = [
-  "1.png",
-  "2.png",
-  "3.png",
-  "4.png",
+  "Adobe-logo.png",
+  "Google-logo.png",
+  "Microsoft-logo.jpg",
+  "Dell-logo.png",
   "5.png",
   // "1.png",
   // "2.png",
