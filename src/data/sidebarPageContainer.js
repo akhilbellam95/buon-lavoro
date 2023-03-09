@@ -210,7 +210,7 @@ export const appDevelopment = {
 
 export const uiDesigning = {
   ...common,
-  image: image3,
+  image: image4,
   title: "UI/UX Designing",
   displayPlanning: false,
   subHeading1: "UI/UX Designing, ",
