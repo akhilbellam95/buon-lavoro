@@ -3,25 +3,25 @@ const services = [
     id: 1,
     icon: "flaticon-vector",
     title: "Modern\nDesigning",
-    text: "Lorem ipsum is are many variations of pass of majority.",
+    // text: "Lorem ipsum is are many variations of pass of majority.",
   },
   {
     id: 2,
     icon: "flaticon-digital",
     title: "MARKETING\nSTRATEGY",
-    text: "Lorem ipsum is are many variations of pass of majority.",
+    // text: "Lorem ipsum is are many variations of pass of majority.",
   },
   {
     id: 3,
     icon: "flaticon-instant-camera",
     title: "Digital\nProducts",
-    text: "Lorem ipsum is are many variations of pass of majority.",
+    // text: "Lorem ipsum is are many variations of pass of majority.",
   },
   {
     id: 4,
     icon: "flaticon-monitor",
     title: "Website\nDevelopment",
-    text: "Lorem ipsum is are many variations of pass of majority.",
+    // text: "Lorem ipsum is are many variations of pass of majority.",
   },
 ];
 
@@ -75,12 +75,12 @@ export const serviceSectionThree = [
     href: "/digital-marketing",
     title: "digital\nmarketing",
   },
-  {
-    id: 7,
-    icon: "flaticon-development",
-    href: "/seo",
-    title: "seo & content\nwriting",
-  },
+  // {
+  //   id: 7,
+  //   icon: "flaticon-development",
+  //   href: "/seo",
+  //   title: "seo & content\nwriting",
+  // },
 ];
 
 export const servicesSectionOne = {
