@@ -3,7 +3,7 @@ import featuredImage from "@/images/resource/planning-strategy-min.jpg";
 import image2 from "@/images/resource/graphic-designing.jpg";
 import image3 from "@/images/resource/Digitalmarketing3.jpg";
 import image4 from "@/images/resource/UIUX5.jpg";
-import image5 from "@/images/resource/Ebooks4.jpg";
+// import image5 from "@/images/resource/Ebooks4.jpg";
 
 export const sidebar = {
   title: "All Services",
@@ -146,7 +146,7 @@ export const seo = {
 
 export const ebook = {
   ...common,
-  image: image5,
+  image: image4,
   title: "E-Book Conversion",
   subHeading1: "E-Book Conversion, ",
   subHeading2: "Manuscript Editing, ",
